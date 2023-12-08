@@ -1,7 +1,6 @@
 # Hi there , Welcome to my profile  👋
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Solaiman366882&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Solaiman366882&theme=github)
 
 
 
@@ -16,4 +15,10 @@
 - ⚡ Fun fact: I want to explore technologies, But for me it's like a maze without exit
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Solaiman366882&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Solaiman366882&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Solaiman366882&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Solaiman366882&theme=github&utcOffset=8)
