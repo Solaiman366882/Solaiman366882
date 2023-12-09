@@ -29,7 +29,7 @@
 
 ## My commits log and stats:
 
-<div style="display:flex;gap:10px;width:100%;flex-direction:row">
+<div align="center" style="display:flex;gap:10px;width:100%;flex-direction:row">
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Solaiman366882&theme=github)
@@ -50,6 +50,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,firebase,git,express,mongodb,figma,nodejs&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,firebase,git,express,mongodb,figma,nodejs" />
   </a>
 </p>
