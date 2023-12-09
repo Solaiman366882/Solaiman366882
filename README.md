@@ -1,12 +1,12 @@
 # Hi there , Welcome to my profile  👋
 
-<center style="margin-bottom:20px"> 
+<div style="margin-bottom:20px"> 
 
 <!-- ![Md.Solaiman](/assets/bannerImage/banner.gif "San Juan Mountains") -->
 
 <img src="./assets/bannerImage/banner.gif" width="100%" height="">
 
-</center>
+</div>
 
 <div style="margin:0 auto">
 
