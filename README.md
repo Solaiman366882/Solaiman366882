@@ -8,7 +8,11 @@
 
 </center>
 
+<div style="margin:0 auto">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Solaiman366882&theme=github)
+
+</div>
 
 
 
