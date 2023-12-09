@@ -29,7 +29,7 @@
 
 ## My commits log and stats:
 
-<div align="center" style="display:flex;gap:10px">
+<div style="display:flex;gap:10px">
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Solaiman366882&theme=github)
