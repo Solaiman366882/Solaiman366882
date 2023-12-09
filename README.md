@@ -50,6 +50,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,firebase,git,express,mongodb,figma,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,firebase,git,express,mongodb,figma,react" />
   </a>
 </p>
