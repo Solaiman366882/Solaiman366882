@@ -46,10 +46,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Solaiman366882&theme=github)</div>
 
-## Technologies that i'm interested in:
+## Technologies that I'm interested in:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,firebase,git,express,mongodb,figma,react" />
+    <img src="https://skillicons.dev/icons?i=webflow,html,css,js,tailwind,firebase,git,express,mongodb,figma,react" />
   </a>
 </p>
