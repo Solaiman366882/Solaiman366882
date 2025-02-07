@@ -23,8 +23,8 @@
 - 👯 I’m looking to collaborate on front end web project
 - 🤔 I’m looking for help with NodeJs and MUI
 - 💬 Ask me about JavaScript 
-- 📫 Reach me out: <https://www.facebook.com/solaiman.newton/>
-- ⚡ Fun fact: I want to explore technologies, But for me it's like a maze without exit
+- 📫 Reach me out: <https://www.facebook.com/solaiman.newton/](https://www.linkedin.com/in/developer-solaiman/>
+- ⚡ Fun fact: I want to explore technology, But for me, it's like a maze without an exit
 
 
 ## My commits log and stats:
